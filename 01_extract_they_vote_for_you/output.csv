@@ -1,0 +1,228 @@
+id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_member.electorate,latest_member.house,latest_member.party
+10007,6,Anthony,Albanese,Grayndler,representatives,Australian Labor Party
+10014,13,Kevin,Andrews,Menzies,representatives,Liberal Party
+10043,40,Sharon,Bird,Cunningham,representatives,Australian Labor Party
+10081,69,Tony,Burke,Watson,representatives,Australian Labor Party
+10088,74,Anthony,Byrne,Holt,representatives,Australian Labor Party
+10123,106,Jason,Clare,Blaxland,representatives,Australian Labor Party
+10136,115,Julie,Collins,Franklin,representatives,Australian Labor Party
+10181,149,Mark,Dreyfus,Isaacs,representatives,Australian Labor Party
+10188,154,Peter,Dutton,Dickson,representatives,Liberal Party
+10195,160,Justine,Elliot,Richmond,representatives,Australian Labor Party
+10230,187,Joel,Fitzgibbon,Hunter,representatives,Australian Labor Party
+10290,242,Alex,Hawke,Mitchell,representatives,Liberal Party
+10319,270,Greg,Hunt,Flinders,representatives,Liberal Party
+10326,275,Steve,Irons,Swan,representatives,Liberal Party
+10368,318,Catherine,King,Ballarat,representatives,Australian Labor Party
+10377,324,Andrew,Laming,Bowman,representatives,Liberal Party
+10387,332,Sussan,Ley,Farrer,representatives,Liberal Party
+10416,351,Nola,Marino,Forrest,representatives,Liberal Party
+10418,353,Richard,Marles,Corio,representatives,Australian Labor Party
+10468,388,Scott,Morrison,Cook,representatives,Liberal Party
+10485,400,Shayne,Neumann,Blair,representatives,Australian Labor Party
+10496,408,Brendan,O'Connor,Gorton,representatives,Australian Labor Party
+10503,414,Julie,Owens,Parramatta,representatives,Australian Labor Party
+10512,418,Graham,Perrett,Moreton,representatives,Australian Labor Party
+10513,419,Tanya,Plibersek,Sydney,representatives,Australian Labor Party
+10529,430,Rowan,Ramsey,Grey,representatives,Liberal Party
+10543,441,Amanda,Rishworth,Kingston,representatives,Australian Labor Party
+10545,443,Stuart,Robert,Fadden,representatives,Liberal Party
+10580,476,Bill,Shorten,Maribyrnong,representatives,Australian Labor Party
+10599,494,Warren,Snowdon,Lingiari,representatives,Australian Labor Party
+10649,533,Maria,Vamvakinou,Calwell,representatives,Australian Labor Party
+10695,563,Tony,Zappia,Makin,representatives,Australian Labor Party
+10703,567,Darren,Chester,Gippsland,representatives,National Party
+10723,587,Paul,Fletcher,Bradfield,representatives,Liberal Party
+10726,590,George,Christensen,Dawson,representatives,National Party
+10728,592,Ken,O'Dowd,Flynn,representatives,National Party
+10729,593,Bert,Van Manen,Forde,representatives,Liberal Party
+10730,594,Ken,Wyatt,Hasluck,representatives,Liberal Party
+10203,596,Warren,Entsch,Leichhardt,representatives,Liberal Party
+10733,599,Rob,Mitchell,McEwen,representatives,Australian Labor Party
+10734,600,Adam,Bandt,Melbourne,representatives,Australian Greens
+10741,607,Josh,Frydenberg,Kooyong,representatives,Liberal Party
+10742,608,Dan,Tehan,Wannon,representatives,Liberal Party
+10743,609,Michael,McCormack,Riverina,representatives,National Party
+10294,610,Chris,Hayes,Fowler,representatives,Australian Labor Party
+10745,612,Karen,Andrews,McPherson,representatives,Liberal Party
+10748,615,Alan,Tudge,Aston,representatives,Liberal Party
+10749,616,Ed,Husic,Chifley,representatives,Australian Labor Party
+10750,617,Craig,Kelly,Hughes,representatives,Liberal Party
+10751,618,Michelle,Rowland,Greenway,representatives,Australian Labor Party
+10060,623,Chris,Bowen,McMahon,representatives,Australian Labor Party
+10752,624,Scott,Buchholz,Wright,representatives,Liberal Party
+10651,626,Ross,Vasta,Bonner,representatives,Liberal Party
+10783,634,David,Coleman,Banks,representatives,Liberal Party
+10784,635,Tony,Pasin,Barker,representatives,Liberal Party
+10787,639,Lisa,Chesters,Bendigo,representatives,Australian Labor Party
+10789,641,Michelle,Landry,Capricornia,representatives,National Party
+10791,644,Michael,Sukkar,Deakin,representatives,Liberal Party
+10818,646,Melissa,Price,Durack,representatives,Liberal Party
+10794,649,Tim,Watts,Gellibrand,representatives,Australian Labor Party
+10797,652,Keith,Pitt,Hinkler,representatives,National Party
+10814,653,Clare,O'Neil,Hotham,representatives,Australian Labor Party
+10817,654,Angus,Taylor,Hume,representatives,Liberal Party
+10762,656,Matt,Thistlethwaite,Kingsford Smith,representatives,Australian Labor Party
+10679,657,Jason,Wood,La Trobe,representatives,Liberal Party
+10799,658,Joanne,Ryan,Lalor,representatives,Australian Labor Party
+10801,660,David,Gillespie,Lyne,representatives,National Party
+10804,663,Ian,Goodenough,Moore,representatives,Liberal Party
+10805,665,Sharon,Claydon,Newcastle,representatives,Australian Labor Party
+10816,666,Rick,Wilson,O'Connor,representatives,Liberal Party
+10806,667,Kevin,Hogan,Page,representatives,National Party
+10815,668,Christian,Porter,Pearce,representatives,Liberal Party
+10808,670,Luke,Howarth,Petrie,representatives,Liberal Party
+10809,671,Jim,Chalmers,Rankin,representatives,Australian Labor Party
+10811,673,Lucy,Wicks,Robertson,representatives,Liberal Party
+10812,674,Andrew,Giles,Scullin,representatives,Australian Labor Party
+10825,678,Terri,Butler,Griffith,representatives,Australian Labor Party
+10592,680,Tony,Smith,Casey,representatives,SPK
+10843,681,Andrew,Hastie,Canning,representatives,Liberal Party
+10844,682,Trent,Zimmerman,North Sydney,representatives,Liberal Party
+10858,683,Linda,Burney,Barton,representatives,Australian Labor Party
+10861,686,Matt,Keogh,Burt,representatives,Australian Labor Party
+10863,688,Anne,Aly,Cowan,representatives,Australian Labor Party
+10864,689,Emma,McBride,Dobell,representatives,Australian Labor Party
+10359,690,Mike,Kelly,Eden-Monaro,representatives,Australian Labor Party
+10866,691,Ted,O'Brien,Fairfax,representatives,Liberal Party
+10871,696,Brian,Mitchell,Lyons,representatives,Australian Labor Party
+10872,697,Mike,Freelander,Macarthur,representatives,Australian Labor Party
+10873,698,Susan,Templeman,Macquarie,representatives,Australian Labor Party
+10876,701,Meryl,Swanson,Paterson,representatives,Australian Labor Party
+10877,702,Luke,Gosling,Solomon,representatives,Australian Labor Party
+10878,703,Jason,Falinski,Mackellar,representatives,Liberal Party
+10880,705,Milton,Dick,Oxley,representatives,Australian Labor Party
+10881,706,Trevor,Evans,Brisbane,representatives,Liberal Party
+10882,707,Nicolle,Flint,Boothby,representatives,Liberal Party
+10883,708,Andrew,Gee,Calare,representatives,National Party
+10884,709,Madeleine,King,Brand,representatives,Australian Labor Party
+10885,710,Julian,Hill,Bruce,representatives,Australian Labor Party
+10813,711,Pat,Conroy,Shortland,representatives,Australian Labor Party
+10886,712,Ben,Morton,Tangney,representatives,Liberal Party
+10887,713,Peter,Khalil,Wills,representatives,Australian Labor Party
+10888,714,Julian,Leeser,Berowra,representatives,Liberal Party
+10889,715,John,McVeigh,Groom,representatives,Liberal Party
+10890,716,David,Littleproud,Maranoa,representatives,National Party
+10892,718,Llew,O'Brien,Wide Bay,representatives,National Party
+10894,720,Tim,Wilson,Goldstein,representatives,Liberal Party
+10895,721,Anne,Stanley,Werriwa,representatives,Australian Labor Party
+10896,722,Andrew,Wallace,Fisher,representatives,Liberal Party
+10746,723,Andrew,Leigh,Fenner,representatives,Australian Labor Party
+10740,724,Stephen,Jones,Whitlam,representatives,Australian Labor Party
+10152,725,Mark,Coulton,Parkes,representatives,CWM
+10352,726,Bob,Katter,Kennedy,representatives,Katter's Australian Party
+10350,727,Barnaby,Joyce,New England,representatives,National Party
+10725,728,John,Alexander,Bennelong,representatives,Liberal Party
+10911,730,Patrick,Gorman,Perth,representatives,Australian Labor Party
+10874,735,Rebekha,Sharkie,Mayo,representatives,Centre Alliance
+10893,736,Josh,Wilson,Fremantle,representatives,Australian Labor Party
+10917,739,Bridget,Archer,Bass,representatives,Liberal Party
+10918,740,Gavin,Pearce,Braddon,representatives,Liberal Party
+10919,741,Alicia,Payne,Canberra,representatives,Australian Labor Party
+10920,742,Gladys,Liu,Chisholm,representatives,Liberal Party
+10921,743,Libby,Coker,Corangamite,representatives,Australian Labor Party
+10922,744,Pat,Conaghan,Cowper,representatives,National Party
+10923,745,Celia,Hammond,Curtin,representatives,Liberal Party
+10924,746,Peta,Murphy,Dunkley,representatives,Australian Labor Party
+10925,747,Daniel,Mulino,Fraser,representatives,Australian Labor Party
+10926,748,Fiona,Phillips,Gilmore,representatives,Australian Labor Party
+10927,749,Phillip,Thompson,Herbert,representatives,Liberal National Party
+10928,750,Katie,Allen,Higgins,representatives,Liberal Party
+10929,751,Helen,Haines,Indi,representatives,Independent
+10930,752,Kate,Thwaites,Jagajaga,representatives,Australian Labor Party
+10931,753,Anika,Wells,Lilley,representatives,Australian Labor Party
+10932,754,Melissa,McIntosh,Lindsay,representatives,Liberal Party
+10933,755,Terry,Young,Longman,representatives,Liberal National Party
+10934,756,Josh,Burns,Macnamara,representatives,Australian Labor Party
+10935,757,Anne,Webster,Mallee,representatives,National Party
+10936,758,Angie,Bell,Moncrieff,representatives,Liberal National Party
+10937,759,Fiona,Martin,Reid,representatives,Liberal Party
+10938,760,Julian,Simmonds,Ryan,representatives,Liberal National Party
+10939,761,Vince,Connelly,Stirling,representatives,Liberal Party
+10940,762,James,Stevens,Sturt,representatives,Liberal Party
+10941,763,Zali,Steggall,Warringah,representatives,Independent
+10942,764,Dave,Sharma,Wentworth,representatives,Liberal Party
+10245,765,Steve,Georganas,Adelaide,representatives,Australian Labor Party
+10069,766,Russell,Broadbent,Monash,representatives,Liberal Party
+10086,767,Mark,Butler,Hindmarsh,representatives,Australian Labor Party
+10111,768,Nick,Champion,Spence,representatives,Australian Labor Party
+10727,769,Andrew,Wilkie,Clark,representatives,Independent
+10875,770,Damian,Drum,Nicholls,representatives,National Party
+10907,771,Ged,Kearney,Cooper,representatives,Australian Labor Party
+10910,772,David,Smith,Bean,representatives,Australian Labor Party
+10003,100001,Eric,Abetz,Tasmania,senate,Liberal Party
+10044,100014,Simon,Birmingham,SA,senate,Liberal Party
+10071,100026,Carol,Brown,Tasmania,senate,Australian Labor Party
+10103,100036,Kim,Carr,Victoria,senate,Australian Labor Party
+10148,100057,Mathias,Cormann,WA,senate,Liberal Party
+10222,100082,Concetta,Fierravanti-Wells,NSW,senate,Liberal Party
+10509,100177,Marise,Payne,NSW,senate,Liberal Party
+10515,100178,Helen,Polley,Tasmania,senate,Australian Labor Party
+10584,100208,Rachel,Siewert,WA,senate,Australian Greens
+10610,100213,Glenn,Sterle,WA,senate,Australian Labor Party
+10678,100241,Penny,Wong,SA,senate,Australian Labor Party
+10705,100250,Catryna,Bilyk,Tasmania,senate,Australian Labor Party
+10707,100252,Michaelia,Cash,WA,senate,Liberal Party
+10711,100256,Sarah,Hanson-Young,SA,senate,Australian Greens
+10755,100285,Richard,Di Natale,Victoria,senate,Australian Greens
+10215,100287,David,Fawcett,SA,senate,Liberal Party
+10757,100288,Alex,Gallacher,SA,senate,Australian Labor Party
+10758,100291,Bridget,McKenzie,Victoria,senate,National Party
+10763,100297,Anne,Urquhart,Tasmania,senate,Australian Labor Party
+10768,100303,Dean,Smith,WA,senate,Liberal Party
+10780,100305,Peter,Whish-Wilson,Tasmania,senate,Australian Greens
+10781,100306,Anne,Ruston,SA,senate,Liberal Party
+10822,100311,Zed,Seselja,ACT,senate,Liberal Party
+10747,100312,Deborah,O'Neill,NSW,senate,Australian Labor Party
+10827,100827,Matthew,Canavan,Queensland,senate,Liberal National Party
+10833,100833,James,McGrath,Queensland,senate,Liberal National Party
+10835,100835,Linda,Reynolds,WA,senate,Liberal Party
+10836,100836,Janet,Rice,Victoria,senate,Australian Greens
+10839,100845,Jenny,McAllister,NSW,senate,Australian Labor Party
+10841,100847,Nick,McKim,Tasmania,senate,Australian Greens
+10845,100849,James,Paterson,Victoria,senate,Liberal Party
+10846,100850,Patrick,Dodson,WA,senate,Australian Labor Party
+10847,100851,Jonathon,Duniam,Tasmania,senate,Liberal Party
+10849,100853,Anthony,Chisholm,Queensland,senate,Australian Labor Party
+10708,100855,Don,Farrell,SA,senate,Australian Labor Party
+10280,100857,Pauline,Hanson,Queensland,senate,Pauline Hanson's One Nation Party
+10853,100859,Jane,Hume,Victoria,senate,Liberal Party
+10855,100861,Malarndirri,McCarthy,NT,senate,Australian Labor Party
+10714,100862,Louise,Pratt,WA,senate,Australian Labor Party
+10857,100864,Murray,Watt,Queensland,senate,Australian Labor Party
+10897,100865,Kimberley,Kitching,Victoria,senate,Australian Labor Party
+10782,100872,Sue,Lines,WA,senate,DPRES
+10900,100873,Slade,Brockman,WA,senate,Liberal Party
+10901,100874,Jordon,Steele-John,WA,senate,Australian Greens
+10715,100877,Scott,Ryan,Victoria,senate,PRES
+10131,100880,Richard,Colbeck,Tasmania,senate,Liberal Party
+10906,100881,Kristina,Keneally,NSW,senate,Australian Labor Party
+10912,100883,Mehreen,Faruqi,NSW,senate,Australian Greens
+10764,100884,Larissa,Waters,Queensland,senate,Australian Greens
+10908,100890,Amanda,Stoker,Queensland,senate,Liberal Party
+10851,100894,Stirling,Griff,SA,senate,Centre Alliance
+10903,100895,Rex,Patrick,SA,senate,Centre Alliance
+10914,100899,Wendy,Askew,Tasmania,senate,Liberal Party
+10915,100900,Raff,Ciccone,Victoria,senate,Australian Labor Party
+10954,100902,Alex,Antic,SA,senate,Liberal Party
+10946,100903,Tim,Ayres,NSW,senate,Australian Labor Party
+10945,100904,Andrew,Bragg,NSW,senate,Liberal Party
+10955,100905,Claire,Chandler,Tasmania,senate,Liberal Party
+10947,100906,Perin,Davey,NSW,senate,National Party
+10838,100907,Katy,Gallagher,ACT,senate,Australian Labor Party
+10950,100908,Nita,Green,Queensland,senate,Australian Labor Party
+10943,100909,Hollie,Hughes,NSW,senate,Liberal Party
+10830,100910,Jacqui,Lambie,Tasmania,senate,Jacqui Lambie Network
+10951,100911,Susan,McDonald,Queensland,senate,National Party
+10948,100912,Sam,McMahon,NT,senate,Country Liberal Party
+10958,100913,Matt,O'Sullivan,WA,senate,Liberal Party
+10952,100914,Gerard,Rennick,Queensland,senate,Liberal Party
+10856,100915,Malcolm,Roberts,Queensland,senate,Pauline Hanson's One Nation Party
+10949,100916,Paul,Scarr,Queensland,senate,Liberal Party
+10944,100917,Tony,Sheldon,NSW,senate,Australian Labor Party
+10953,100918,Marielle,Smith,SA,senate,Australian Labor Party
+10957,100919,David,Van,Victoria,senate,Liberal Party
+10956,100920,Jess,Walsh,Victoria,senate,Australian Labor Party
+10790,100921,Sarah,Henderson,Victoria,senate,Liberal Party
+10904,100922,Jim,Molan,NSW,senate,Liberal Party
+10959,100923,Andrew,McLachlan,SA,senate,Liberal Party

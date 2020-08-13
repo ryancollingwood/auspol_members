@@ -1,0 +1,152 @@
+id,name_first,name_last,electorate,party
+6,Anthony,Albanese,Grayndler,Australian Labor Party
+13,Kevin,Andrews,Menzies,Liberal Party
+40,Sharon,Bird,Cunningham,Australian Labor Party
+69,Tony,Burke,Watson,Australian Labor Party
+74,Anthony,Byrne,Holt,Australian Labor Party
+106,Jason,Clare,Blaxland,Australian Labor Party
+115,Julie,Collins,Franklin,Australian Labor Party
+149,Mark,Dreyfus,Isaacs,Australian Labor Party
+154,Peter,Dutton,Dickson,Liberal Party
+160,Justine,Elliot,Richmond,Australian Labor Party
+187,Joel,Fitzgibbon,Hunter,Australian Labor Party
+242,Alex,Hawke,Mitchell,Liberal Party
+270,Greg,Hunt,Flinders,Liberal Party
+275,Steve,Irons,Swan,Liberal Party
+318,Catherine,King,Ballarat,Australian Labor Party
+324,Andrew,Laming,Bowman,Liberal Party
+332,Sussan,Ley,Farrer,Liberal Party
+351,Nola,Marino,Forrest,Liberal Party
+353,Richard,Marles,Corio,Australian Labor Party
+388,Scott,Morrison,Cook,Liberal Party
+400,Shayne,Neumann,Blair,Australian Labor Party
+408,Brendan,O'Connor,Gorton,Australian Labor Party
+414,Julie,Owens,Parramatta,Australian Labor Party
+418,Graham,Perrett,Moreton,Australian Labor Party
+419,Tanya,Plibersek,Sydney,Australian Labor Party
+430,Rowan,Ramsey,Grey,Liberal Party
+441,Amanda,Rishworth,Kingston,Australian Labor Party
+443,Stuart,Robert,Fadden,Liberal Party
+476,Bill,Shorten,Maribyrnong,Australian Labor Party
+494,Warren,Snowdon,Lingiari,Australian Labor Party
+533,Maria,Vamvakinou,Calwell,Australian Labor Party
+563,Tony,Zappia,Makin,Australian Labor Party
+567,Darren,Chester,Gippsland,National Party
+587,Paul,Fletcher,Bradfield,Liberal Party
+590,George,Christensen,Dawson,National Party
+592,Ken,O'Dowd,Flynn,National Party
+593,Bert,Van Manen,Forde,Liberal Party
+594,Ken,Wyatt,Hasluck,Liberal Party
+596,Warren,Entsch,Leichhardt,Liberal Party
+599,Rob,Mitchell,McEwen,Australian Labor Party
+600,Adam,Bandt,Melbourne,Australian Greens
+607,Josh,Frydenberg,Kooyong,Liberal Party
+608,Dan,Tehan,Wannon,Liberal Party
+609,Michael,McCormack,Riverina,National Party
+610,Chris,Hayes,Fowler,Australian Labor Party
+612,Karen,Andrews,McPherson,Liberal Party
+615,Alan,Tudge,Aston,Liberal Party
+616,Ed,Husic,Chifley,Australian Labor Party
+617,Craig,Kelly,Hughes,Liberal Party
+618,Michelle,Rowland,Greenway,Australian Labor Party
+623,Chris,Bowen,McMahon,Australian Labor Party
+624,Scott,Buchholz,Wright,Liberal Party
+626,Ross,Vasta,Bonner,Liberal Party
+634,David,Coleman,Banks,Liberal Party
+635,Tony,Pasin,Barker,Liberal Party
+639,Lisa,Chesters,Bendigo,Australian Labor Party
+641,Michelle,Landry,Capricornia,National Party
+644,Michael,Sukkar,Deakin,Liberal Party
+646,Melissa,Price,Durack,Liberal Party
+649,Tim,Watts,Gellibrand,Australian Labor Party
+652,Keith,Pitt,Hinkler,National Party
+653,Clare,O'Neil,Hotham,Australian Labor Party
+654,Angus,Taylor,Hume,Liberal Party
+656,Matt,Thistlethwaite,Kingsford Smith,Australian Labor Party
+657,Jason,Wood,La Trobe,Liberal Party
+658,Joanne,Ryan,Lalor,Australian Labor Party
+660,David,Gillespie,Lyne,National Party
+663,Ian,Goodenough,Moore,Liberal Party
+665,Sharon,Claydon,Newcastle,Australian Labor Party
+666,Rick,Wilson,O'Connor,Liberal Party
+667,Kevin,Hogan,Page,National Party
+668,Christian,Porter,Pearce,Liberal Party
+670,Luke,Howarth,Petrie,Liberal Party
+671,Jim,Chalmers,Rankin,Australian Labor Party
+673,Lucy,Wicks,Robertson,Liberal Party
+674,Andrew,Giles,Scullin,Australian Labor Party
+678,Terri,Butler,Griffith,Australian Labor Party
+680,Tony,Smith,Casey,SPK
+681,Andrew,Hastie,Canning,Liberal Party
+682,Trent,Zimmerman,North Sydney,Liberal Party
+683,Linda,Burney,Barton,Australian Labor Party
+686,Matt,Keogh,Burt,Australian Labor Party
+688,Anne,Aly,Cowan,Australian Labor Party
+689,Emma,McBride,Dobell,Australian Labor Party
+690,Mike,Kelly,Eden-Monaro,Australian Labor Party
+691,Ted,O'Brien,Fairfax,Liberal Party
+696,Brian,Mitchell,Lyons,Australian Labor Party
+697,Mike,Freelander,Macarthur,Australian Labor Party
+698,Susan,Templeman,Macquarie,Australian Labor Party
+701,Meryl,Swanson,Paterson,Australian Labor Party
+702,Luke,Gosling,Solomon,Australian Labor Party
+703,Jason,Falinski,Mackellar,Liberal Party
+705,Milton,Dick,Oxley,Australian Labor Party
+706,Trevor,Evans,Brisbane,Liberal Party
+707,Nicolle,Flint,Boothby,Liberal Party
+708,Andrew,Gee,Calare,National Party
+709,Madeleine,King,Brand,Australian Labor Party
+710,Julian,Hill,Bruce,Australian Labor Party
+711,Pat,Conroy,Shortland,Australian Labor Party
+712,Ben,Morton,Tangney,Liberal Party
+713,Peter,Khalil,Wills,Australian Labor Party
+714,Julian,Leeser,Berowra,Liberal Party
+715,John,McVeigh,Groom,Liberal Party
+716,David,Littleproud,Maranoa,National Party
+718,Llew,O'Brien,Wide Bay,National Party
+720,Tim,Wilson,Goldstein,Liberal Party
+721,Anne,Stanley,Werriwa,Australian Labor Party
+722,Andrew,Wallace,Fisher,Liberal Party
+723,Andrew,Leigh,Fenner,Australian Labor Party
+724,Stephen,Jones,Whitlam,Australian Labor Party
+725,Mark,Coulton,Parkes,CWM
+726,Bob,Katter,Kennedy,Katter's Australian Party
+727,Barnaby,Joyce,New England,National Party
+728,John,Alexander,Bennelong,Liberal Party
+730,Patrick,Gorman,Perth,Australian Labor Party
+735,Rebekha,Sharkie,Mayo,Centre Alliance
+736,Josh,Wilson,Fremantle,Australian Labor Party
+739,Bridget,Archer,Bass,Liberal Party
+740,Gavin,Pearce,Braddon,Liberal Party
+741,Alicia,Payne,Canberra,Australian Labor Party
+742,Gladys,Liu,Chisholm,Liberal Party
+743,Libby,Coker,Corangamite,Australian Labor Party
+744,Pat,Conaghan,Cowper,National Party
+745,Celia,Hammond,Curtin,Liberal Party
+746,Peta,Murphy,Dunkley,Australian Labor Party
+747,Daniel,Mulino,Fraser,Australian Labor Party
+748,Fiona,Phillips,Gilmore,Australian Labor Party
+749,Phillip,Thompson,Herbert,Liberal National Party
+750,Katie,Allen,Higgins,Liberal Party
+751,Helen,Haines,Indi,Independent
+752,Kate,Thwaites,Jagajaga,Australian Labor Party
+753,Anika,Wells,Lilley,Australian Labor Party
+754,Melissa,McIntosh,Lindsay,Liberal Party
+755,Terry,Young,Longman,Liberal National Party
+756,Josh,Burns,Macnamara,Australian Labor Party
+757,Anne,Webster,Mallee,National Party
+758,Angie,Bell,Moncrieff,Liberal National Party
+759,Fiona,Martin,Reid,Liberal Party
+760,Julian,Simmonds,Ryan,Liberal National Party
+761,Vince,Connelly,Stirling,Liberal Party
+762,James,Stevens,Sturt,Liberal Party
+763,Zali,Steggall,Warringah,Independent
+764,Dave,Sharma,Wentworth,Liberal Party
+765,Steve,Georganas,Adelaide,Australian Labor Party
+766,Russell,Broadbent,Monash,Liberal Party
+767,Mark,Butler,Hindmarsh,Australian Labor Party
+768,Nick,Champion,Spence,Australian Labor Party
+769,Andrew,Wilkie,Clark,Independent
+770,Damian,Drum,Nicholls,National Party
+771,Ged,Kearney,Cooper,Australian Labor Party
+772,David,Smith,Bean,Australian Labor Party
