@@ -95,9 +95,6 @@ Ballarat,Bakery Hill,3350,VIC
 Ballarat,Bald Hills,3364,VIC
 Ballarat,Ballan,3342,VIC
 Ballarat,Ballarat,3350,VIC
-Ballarat,Ballarat,3350,VIC
-Ballarat,Ballarat,3350,VIC
-Ballarat,Ballarat,3350,VIC
 Ballarat,Ballarat Central,3350,VIC
 Ballarat,Ballarat East,3350,VIC
 Ballarat,Ballarat North,3350,VIC
@@ -326,8 +323,6 @@ Barker,Bethel,5373,SA
 Barker,Big Bend,5238,SA
 Barker,Binnum,5262,SA
 Barker,Birdwood,5234,SA
-Barker,Biscuit Flat,5275,SA
-Barker,Biscuit Flat,5275,SA
 Barker,Biscuit Flat,5275,SA
 Barker,Black Hill,5353,SA
 Barker,Blackfellows Caves,5291,SA
@@ -608,7 +603,6 @@ Barker,Pinnaroo,5304,SA
 Barker,Pleasant Park,5277,SA
 Barker,Point Mcleay,5259,SA
 Barker,Policeman Point,5264,SA
-Barker,Policeman Point,5264,SA
 Barker,Poltalloch,5259,SA
 Barker,Pompoota,5238,SA
 Barker,Ponde,5238,SA
@@ -722,7 +716,6 @@ Barker,White Hill,5253,SA
 Barker,White Sands,5253,SA
 Barker,Wigley Flat,5330,SA
 Barker,Wild Dog Valley,5271,SA
-Barker,Wilkawatt,5301,SA
 Barker,Wilkawatt,5301,SA
 Barker,Willalooka,5267,SA
 Barker,Williamstown,5351,SA
@@ -1205,7 +1198,6 @@ Berowra,Kenthurst,2156,NSW
 Berowra,Laughtondale,2775,NSW
 Berowra,Leets Vale,2775,NSW
 Berowra,Lower Hawkesbury,2775,NSW
-Berowra,Lower Hawkesbury,2775,NSW
 Berowra,Lower Portland,2756,NSW
 Berowra,Maraylya,2765,NSW
 Berowra,Maroota,2756,NSW
@@ -1334,7 +1326,6 @@ Blair,Pine Mountain,4306,QLD
 Blair,Prenzlau,4311,QLD
 Blair,Purga,4306,QLD
 Blair,Raceview,4305,QLD
-Blair,Raymonds Hill,4305,QLD
 Blair,Raymonds Hill,4305,QLD
 Blair,Redbank Creek,4312,QLD
 Blair,Redbank Plains,4301,QLD
@@ -2804,8 +2795,6 @@ Cooper,Clifton Hill,3068,VIC
 Cooper,Coburg,3058,VIC
 Cooper,Coburg North,3058,VIC
 Cooper,Croxton,3070,VIC
-Cooper,Croxton,3070,VIC
-Cooper,Dennis,3070,VIC
 Cooper,Dennis,3070,VIC
 Cooper,Fairfield,3078,VIC
 Cooper,Keon Park,3073,VIC
@@ -2818,7 +2807,6 @@ Cooper,Northcote,3070,VIC
 Cooper,Preston,3072,VIC
 Cooper,Preston South,3072,VIC
 Cooper,Preston West,3072,VIC
-Cooper,Regent,3073,VIC
 Cooper,Regent,3073,VIC
 Cooper,Reservoir,3073,VIC
 Cooper,Thornbury,3071,VIC
@@ -3021,7 +3009,6 @@ Cowper,Argents Hill,2449,NSW
 Cowper,Austral Eden,2440,NSW
 Cowper,Bakers Creek,2447,NSW
 Cowper,Barraganyatti,2441,NSW
-Cowper,Bayldon,2452,NSW
 Cowper,Bayldon,2452,NSW
 Cowper,Bellbrook,2440,NSW
 Cowper,Bellimbopinni,2440,NSW
@@ -3326,7 +3313,6 @@ Dawson,Dittmer,4800,QLD
 Dawson,Dolphin Heads,4740,QLD
 Dawson,Dumbleton,4740,QLD
 Dawson,Eaglemount Heights,4740,QLD
-Dawson,Eaglemount Heights,4740,QLD
 Dawson,East Mackay,4740,QLD
 Dawson,Eimeo,4740,QLD
 Dawson,Erakala,4740,QLD
@@ -3506,7 +3492,6 @@ Dickson,Narangba,4504,QLD
 Dickson,Ocean View,4521,QLD
 Dickson,Petrie,4502,QLD
 Dickson,Rush Creek,4521,QLD
-Dickson,Samford,4520,QLD
 Dickson,Samford,4520,QLD
 Dickson,Samford Valley,4520,QLD
 Dickson,Samford Village,4520,QLD
@@ -4285,9 +4270,6 @@ Eden-Monaro,Frogs Hollow,2550,NSW
 Eden-Monaro,Frying Pan,2630,NSW
 Eden-Monaro,Gadara,2720,NSW
 Eden-Monaro,Gearys Gap,2621,NSW
-Eden-Monaro,Gearys Gap,2621,NSW
-Eden-Monaro,Gearys Gap,2621,NSW
-Eden-Monaro,Gearys Gap,2621,NSW
 Eden-Monaro,Geehi,2642,NSW
 Eden-Monaro,Gilmore,2720,NSW
 Eden-Monaro,Glen Allen,2631,NSW
@@ -4483,7 +4465,6 @@ Eden-Monaro,Taradale,2653,NSW
 Eden-Monaro,Tarago,2580,NSW
 Eden-Monaro,Tarraganda,2550,NSW
 Eden-Monaro,Tathra,2550,NSW
-Eden-Monaro,Tharwa,2620,NSW
 Eden-Monaro,Tharwa,2620,NSW
 Eden-Monaro,The Angle,2620,NSW
 Eden-Monaro,The Brothers,2630,NSW
@@ -8139,7 +8120,6 @@ Indi,Everton Upper,3678,VIC
 Indi,Falls Creek,3699,VIC
 Indi,Fawcett,3714,VIC
 Indi,Fernvale,3701,VIC
-Indi,Fernvale,3701,VIC
 Indi,Flowerdale,3717,VIC
 Indi,Freeburgh,3741,VIC
 Indi,Gaffneys Creek,3723,VIC
@@ -8786,7 +8766,6 @@ Kingsford Smith,La Perouse,2036,NSW
 Kingsford Smith,Little Bay,2036,NSW
 Kingsford Smith,Long Bay,2036,NSW
 Kingsford Smith,Lurline Bay,2035,NSW
-Kingsford Smith,Lurline Bay,2035,NSW
 Kingsford Smith,Malabar,2036,NSW
 Kingsford Smith,Maroubra,2035,NSW
 Kingsford Smith,Maroubra Bay,2035,NSW
@@ -9039,9 +9018,6 @@ Leichhardt,Upper Daintree,4873,QLD
 Leichhardt,Wangetti,4877,QLD
 Leichhardt,Warraber Island,4875,QLD
 Leichhardt,Warraber Islet,4875,QLD
-Leichhardt,Weipa,4874,QLD
-Leichhardt,Weipa,4874,QLD
-Leichhardt,Weipa,4874,QLD
 Leichhardt,Weipa,4874,QLD
 Leichhardt,Wenlock,4874,QLD
 Leichhardt,Westcourt,4870,QLD
@@ -9403,7 +9379,6 @@ Lingiari,Ciccone,0870,NT
 Lingiari,Claravale Stn,0852,NT
 Lingiari,Clarence Stn,0852,NT
 Lingiari,Cobourg Peninsula,0822,NT
-Lingiari,Cocos Islands,6799,NT
 Lingiari,Cocos Islands,6799,NT
 Lingiari,Collett Creek,0822,NT
 Lingiari,Conder Point,0822,NT
@@ -10656,10 +10631,6 @@ Longman,Bongaree,4507,QLD
 Longman,Booroobin,4552,QLD
 Longman,Bracalba,4512,QLD
 Longman,Bribie Island,4507,QLD
-Longman,Bribie Island,4507,QLD
-Longman,Bribie Island,4507,QLD
-Longman,Bribie Island,4507,QLD
-Longman,Bribie Island,4507,QLD
 Longman,Burpengary,4505,QLD
 Longman,Burpengary East,4505,QLD
 Longman,Caboolture,4510,QLD
@@ -11374,7 +11345,6 @@ Mackellar,Avalon Beach,2107,NSW
 Mackellar,Bayview,2104,NSW
 Mackellar,Beacon Hill,2100,NSW
 Mackellar,Belrose,2085,NSW
-Mackellar,Bilgola,2107,NSW
 Mackellar,Bilgola,2107,NSW
 Mackellar,Bilgola Beach,2107,NSW
 Mackellar,Bilgola Plateau,2107,NSW
@@ -12810,10 +12780,6 @@ Mayo,Jupiter Creek,5153,SA
 Mayo,Kangarilla,5157,SA
 Mayo,Kangaroo Head,5222,SA
 Mayo,Kangaroo Island,5223,SA
-Mayo,Kangaroo Island,5223,SA
-Mayo,Kangaroo Island,5223,SA
-Mayo,Kangaroo Island,5223,SA
-Mayo,Kangaroo Island,5223,SA
 Mayo,Kanmantoo,5252,SA
 Mayo,Karatta,5223,SA
 Mayo,Kenton Valley,5233,SA
@@ -14068,8 +14034,6 @@ North Sydney,Cremorne,2090,NSW
 North Sydney,Crows Nest,2065,NSW
 North Sydney,Gladesville,2111,NSW
 North Sydney,Gore Hill,2065,NSW
-North Sydney,Gore Hill,2065,NSW
-North Sydney,Gore Hill,2065,NSW
 North Sydney,Greenwich,2065,NSW
 North Sydney,Henley,2111,NSW
 North Sydney,Hunters Hill,2110,NSW
@@ -14094,7 +14058,6 @@ North Sydney,Northbridge,2063,NSW
 North Sydney,Northwood,2066,NSW
 North Sydney,Riverview,2066,NSW
 North Sydney,St Leonards,2065,NSW
-North Sydney,Tambourine Bay,2066,NSW
 North Sydney,Tambourine Bay,2066,NSW
 North Sydney,Tarban,2111,NSW
 North Sydney,Waverton,2060,NSW
@@ -14816,7 +14779,6 @@ Page,Lowanna,2450,NSW
 Page,Lower Bottle Creek,2469,NSW
 Page,Lower Bucca,2450,NSW
 Page,Lower Coldstream,2460,NSW
-Page,Lower Coldstream,2460,NSW
 Page,Lower Duck Creek,2469,NSW
 Page,Lower Dyraaba,2470,NSW
 Page,Lower Kangaroo Creek,2460,NSW
@@ -14971,7 +14933,6 @@ Page,Tyndale,2460,NSW
 Page,Tyringham,2453,NSW
 Page,Ulmarra,2462,NSW
 Page,Unumgar,2474,NSW
-Page,Upper Coldstream,2460,NSW
 Page,Upper Coldstream,2460,NSW
 Page,Upper Copmanhurst,2460,NSW
 Page,Upper Corindi,2456,NSW
@@ -15662,7 +15623,6 @@ Reid,Flemington,2140,NSW
 Reid,Flemington Markets,2129,NSW
 Reid,Homebush,2140,NSW
 Reid,Homebush Bay,2127,NSW
-Reid,Homebush Bay,2127,NSW
 Reid,Homebush West,2140,NSW
 Reid,Liberty Grove,2138,NSW
 Reid,Lidcombe,2141,NSW
@@ -15800,7 +15760,6 @@ Richmond,Smiths Creek,2484,NSW
 Richmond,South Ballina,2478,NSW
 Richmond,South Golden Beach,2483,NSW
 Richmond,South Murwillumbah,2484,NSW
-Richmond,St Helena,2479,NSW
 Richmond,St Helena,2479,NSW
 Richmond,Stokers Siding,2484,NSW
 Richmond,Stotts Creek,2487,NSW
@@ -15941,7 +15900,6 @@ Riverina,Greenethorpe,2809,NSW
 Riverina,Gregadoo,2650,NSW
 Riverina,Grenfell,2810,NSW
 Riverina,Grogan,2666,NSW
-Riverina,Gubbata,2669,NSW
 Riverina,Gubbata,2669,NSW
 Riverina,Gumly Gumly,2652,NSW
 Riverina,Gundagai,2722,NSW
@@ -16340,7 +16298,6 @@ Solomon,Railway Dam,820,NT
 Solomon,Rapid Creek,810,NT
 Solomon,Rosebery,832,NT
 Solomon,Sanderson,812,NT
-Solomon,Sanderson,812,NT
 Solomon,Stuart Park,820,NT
 Solomon,Sunset Cove,810,NT
 Solomon,The Chase,832,NT
@@ -16565,8 +16522,6 @@ Sydney,Forest Lodge,2037,NSW
 Sydney,Glebe,2037,NSW
 Sydney,Gpo Sydney,2001,NSW
 Sydney,Haymarket,2000,NSW
-Sydney,Kings Cross,2011,NSW
-Sydney,Kings Cross,2011,NSW
 Sydney,Kings Cross,2011,NSW
 Sydney,Lord Howe Island,2898,NSW
 Sydney,Macdonaldtown,2042,NSW
@@ -17112,7 +17067,6 @@ Wentworth,East Sydney,2010,NSW
 Wentworth,Edgecliff,2027,NSW
 Wentworth,Elizabeth Bay,2011,NSW
 Wentworth,Kings Cross,2011,NSW
-Wentworth,Kings Cross,2011,NSW
 Wentworth,Moore Park,2021,NSW
 Wentworth,North Bondi,2026,NSW
 Wentworth,Paddington,2021,NSW
@@ -17471,7 +17425,6 @@ Wills,Glenroy,3046,VIC
 Wills,Hadfield,3046,VIC
 Wills,Jewell,3056,VIC
 Wills,Merlynston,3058,VIC
-Wills,Moreland,3058,VIC
 Wills,Moreland,3058,VIC
 Wills,North Fitzroy,3068,VIC
 Wills,Oak Park,3046,VIC
