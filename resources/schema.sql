@@ -1,8 +1,11 @@
-CREATE DATABASE auspol
-    WITH 
-    OWNER = postgres
-    ENCODING = 'UTF8'
-    CONNECTION LIMIT = -1;
+DROP TABLE IF EXISTS
+  representitives,
+  localities,
+  states,  
+  locality_suburbs,
+  electorates,
+  postcodes,
+  parties;
 
 CREATE TABLE "states" (
   "id" int PRIMARY KEY,
