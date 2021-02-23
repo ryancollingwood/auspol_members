@@ -83,7 +83,6 @@ id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_memb
 10861,686,Matt,Keogh,Burt,representatives,Australian Labor Party
 10863,688,Anne,Aly,Cowan,representatives,Australian Labor Party
 10864,689,Emma,McBride,Dobell,representatives,Australian Labor Party
-10359,690,Mike,Kelly,Eden-Monaro,representatives,Australian Labor Party
 10866,691,Ted,O'Brien,Fairfax,representatives,Liberal Party
 10871,696,Brian,Mitchell,Lyons,representatives,Australian Labor Party
 10872,697,Mike,Freelander,Macarthur,representatives,Australian Labor Party
@@ -101,7 +100,6 @@ id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_memb
 10886,712,Ben,Morton,Tangney,representatives,Liberal Party
 10887,713,Peter,Khalil,Wills,representatives,Australian Labor Party
 10888,714,Julian,Leeser,Berowra,representatives,Liberal Party
-10889,715,John,McVeigh,Groom,representatives,Liberal Party
 10890,716,David,Littleproud,Maranoa,representatives,National Party
 10892,718,Llew,O'Brien,Wide Bay,representatives,National Party
 10894,720,Tim,Wilson,Goldstein,representatives,Liberal Party
@@ -150,11 +148,12 @@ id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_memb
 10875,770,Damian,Drum,Nicholls,representatives,National Party
 10907,771,Ged,Kearney,Cooper,representatives,Australian Labor Party
 10910,772,David,Smith,Bean,representatives,Australian Labor Party
+10960,773,Kristy,McBain,Eden-Monaro,representatives,Australian Labor Party
+10963,774,Garth,Hamilton,Groom,representatives,Liberal National Party
 10003,100001,Eric,Abetz,Tasmania,senate,Liberal Party
 10044,100014,Simon,Birmingham,SA,senate,Liberal Party
 10071,100026,Carol,Brown,Tasmania,senate,Australian Labor Party
 10103,100036,Kim,Carr,Victoria,senate,Australian Labor Party
-10148,100057,Mathias,Cormann,WA,senate,Liberal Party
 10222,100082,Concetta,Fierravanti-Wells,NSW,senate,Liberal Party
 10509,100177,Marise,Payne,NSW,senate,Liberal Party
 10515,100178,Helen,Polley,Tasmania,senate,Australian Labor Party
@@ -164,7 +163,6 @@ id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_memb
 10705,100250,Catryna,Bilyk,Tasmania,senate,Australian Labor Party
 10707,100252,Michaelia,Cash,WA,senate,Liberal Party
 10711,100256,Sarah,Hanson-Young,SA,senate,Australian Greens
-10755,100285,Richard,Di Natale,Victoria,senate,Australian Greens
 10215,100287,David,Fawcett,SA,senate,Liberal Party
 10757,100288,Alex,Gallacher,SA,senate,Australian Labor Party
 10758,100291,Bridget,McKenzie,Victoria,senate,National Party
@@ -201,7 +199,6 @@ id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_memb
 10764,100884,Larissa,Waters,Queensland,senate,Australian Greens
 10908,100890,Amanda,Stoker,Queensland,senate,Liberal Party
 10851,100894,Stirling,Griff,SA,senate,Centre Alliance
-10903,100895,Rex,Patrick,SA,senate,Centre Alliance
 10914,100899,Wendy,Askew,Tasmania,senate,Liberal Party
 10915,100900,Raff,Ciccone,Victoria,senate,Australian Labor Party
 10954,100902,Alex,Antic,SA,senate,Liberal Party
@@ -226,3 +223,6 @@ id,latest_member.id,latest_member.name.first,latest_member.name.last,latest_memb
 10790,100921,Sarah,Henderson,Victoria,senate,Liberal Party
 10904,100922,Jim,Molan,NSW,senate,Liberal Party
 10959,100923,Andrew,McLachlan,SA,senate,Liberal Party
+10903,100924,Rex,Patrick,SA,senate,Independent
+10961,100925,Lidia,Thorpe,Victoria,senate,Australian Greens
+10962,100926,Ben,Small,WA,senate,Liberal Party

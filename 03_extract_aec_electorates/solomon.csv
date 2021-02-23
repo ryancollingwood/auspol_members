@@ -1,85 +1,85 @@
 State,Locality/Suburb,Postcode,Electorate,Redistributed Electorate,Other Locality(s)
-NT,ALAWA,810,Solomon,Northern Territory,
-NT,ANULA,812,Solomon,Northern Territory,
-NT,ARCHER,830,Solomon,Northern Territory,
-NT,BAGOT,820,Solomon,Northern Territory,
-NT,BAKEWELL,832,Solomon,Northern Territory,
-NT,BAYVIEW,820,Solomon,Northern Territory,
-NT,BAYVIEW HAVEN,820,Solomon,Northern Territory,BAYVIEW
-NT,BELLAMACK,832,Solomon,Northern Territory,
-NT,BERRIMAH,828,Solomon,Northern Territory,
-NT,BRINKIN,810,Solomon,Northern Territory,
-NT,BUFFALO CREEK,810,Solomon,Northern Territory,
-NT,CASUARINA,810,Solomon,Northern Territory,
-NT,CITY VALLEY,820,Solomon,Northern Territory,WOOLNER
-NT,COCONUT GROVE,810,Solomon,Northern Territory,
-NT,COONAWARRA,820,Solomon,Northern Territory,
-NT,CULLEN BAY,820,Solomon,Northern Territory,LARRAKEYAH
-NT,DARWIN,800,Solomon,Northern Territory,
-NT,DARWIN RAAF,820,Solomon,Northern Territory,
-NT,DRIVER,830,Solomon,Northern Territory,
-NT,DUNBAR HEIGHTS,830,Solomon,Northern Territory,GRAY
-1234,1234,1234,1234,1234,1234
+NT,ALAWA,810,Solomon,,
+NT,ANULA,812,Solomon,,
+NT,ARCHER,830,Solomon,,
+NT,BAGOT,820,Solomon,,
+NT,BAKEWELL,832,Solomon,,
+NT,BAYVIEW,820,Solomon,,
+NT,BAYVIEW HAVEN,820,Solomon,,BAYVIEW
+NT,BELLAMACK,832,Solomon,,
+NT,BERRIMAH,828,Solomon,,
+NT,BRINKIN,810,Solomon,,
+NT,BUFFALO CREEK,810,Solomon,,
+NT,CASUARINA,810,Solomon,,
+NT,CITY VALLEY,820,Solomon,,WOOLNER
+NT,COCONUT GROVE,810,Solomon,,
+NT,COONAWARRA,820,Solomon,,
+NT,CULLEN BAY,820,Solomon,,LARRAKEYAH
+NT,DARWIN,800,Solomon,,
+NT,DARWIN RAAF,820,Solomon,,
+NT,DRIVER,830,Solomon,,
+NT,DUNBAR HEIGHTS,830,Solomon,,GRAY
+1234,1234,1234,1234,1234.0,1234
 1,2,3,4,,
-NT,DURACK,830,Solomon,Northern Territory,
-NT,EAST ARM,822,Solomon,Northern Territory,
-NT,EAST POINT,820,Solomon,Northern Territory,
-NT,EATON,820,Solomon,Northern Territory,
-NT,FAIRWAY RIDGE,830,Solomon,Northern Territory,DRIVER
-NT,FAIRWAY WATERS,830,Solomon,Northern Territory,DURACK
-NT,FANNIE BAY,820,Solomon,Northern Territory,
-NT,GRAY,830,Solomon,Northern Territory,
-NT,GUNN,832,Solomon,Northern Territory,
-NT,JINGILI,810,Solomon,Northern Territory,
-NT,KARAMA,812,Solomon,Northern Territory,
-NT,KULALUK,810,Solomon,Northern Territory,
-NT,LARRAKEYAH,820,Solomon,Northern Territory,
-NT,LARRAKEYAH BARRACKS,820,Solomon,Northern Territory,
-NT,LEANYER,812,Solomon,Northern Territory,
-NT,LEE POINT,810,Solomon,Northern Territory,
-NT,LUDMILLA,820,Solomon,Northern Territory,
-NT,LYONS,810,Solomon,Northern Territory,
-NT,MALAK,812,Solomon,Northern Territory,
-NT,MARLOW LAGOON,830,Solomon,Northern Territory,
-1234,1234,1234,1234,1234,1234
+NT,DURACK,830,Solomon,,
+NT,EAST ARM,822,Solomon,,
+NT,EAST POINT,820,Solomon,,
+NT,EATON,820,Solomon,,
+NT,FAIRWAY RIDGE,830,Solomon,,DRIVER
+NT,FAIRWAY WATERS,830,Solomon,,DURACK
+NT,FANNIE BAY,820,Solomon,,
+NT,GRAY,830,Solomon,,
+NT,GUNN,832,Solomon,,
+NT,JINGILI,810,Solomon,,
+NT,KARAMA,812,Solomon,,
+NT,KULALUK,810,Solomon,,
+NT,LARRAKEYAH,820,Solomon,,
+NT,LARRAKEYAH BARRACKS,820,Solomon,,
+NT,LEANYER,812,Solomon,,
+NT,LEE POINT,810,Solomon,,
+NT,LUDMILLA,820,Solomon,,
+NT,LYONS,810,Solomon,,
+NT,MALAK,812,Solomon,,
+NT,MARLOW LAGOON,830,Solomon,,
+1234,1234,1234,1234,1234.0,1234
 1,2,3,4,,
-NT,MARRARA,812,Solomon,Northern Territory,
-NT,MILLNER,810,Solomon,Northern Territory,
-NT,MINMARAMA PARK,820,Solomon,Northern Territory,
-NT,MOIL,810,Solomon,Northern Territory,
-NT,MOULDEN,830,Solomon,Northern Territory,
-NT,MUIRHEAD,810,Solomon,Northern Territory,
-NT,NAKARA,810,Solomon,Northern Territory,
-NT,NIGHTCLIFF,810,Solomon,Northern Territory,
-NT,NORTHLAKES,812,Solomon,Northern Territory,MARRARA
-NT,ONE MILE DAM,820,Solomon,Northern Territory,RAILWAY DAM
-NT,PALMERSTON,831,Solomon,Northern Territory,
-NT,PALMERSTON CITY,830,Solomon,Northern Territory,
-NT,PARAP,820,Solomon,Northern Territory,
-NT,PINELANDS,829,Solomon,Northern Territory,
-NT,RAILWAY DAM,820,Solomon,Northern Territory,
-NT,RAPID CREEK,810,Solomon,Northern Territory,
-NT,ROSEBERY,832,Solomon,Northern Territory,
-NT,SANDERSON,812,Solomon,Northern Territory,ANULA
-NT,SANDERSON,812,Solomon,Northern Territory,MARRARA
-NT,STUART PARK,820,Solomon,Northern Territory,
-1234,1234,1234,1234,1234,1234
+NT,MARRARA,812,Solomon,,
+NT,MILLNER,810,Solomon,,
+NT,MINMARAMA PARK,820,Solomon,,
+NT,MOIL,810,Solomon,,
+NT,MOULDEN,830,Solomon,,
+NT,MUIRHEAD,810,Solomon,,
+NT,NAKARA,810,Solomon,,
+NT,NIGHTCLIFF,810,Solomon,,
+NT,NORTHLAKES,812,Solomon,,MARRARA
+NT,ONE MILE DAM,820,Solomon,,RAILWAY DAM
+NT,PALMERSTON,831,Solomon,,
+NT,PALMERSTON CITY,830,Solomon,,
+NT,PARAP,820,Solomon,,
+NT,PINELANDS,829,Solomon,,
+NT,RAILWAY DAM,820,Solomon,,
+NT,RAPID CREEK,810,Solomon,,
+NT,ROSEBERY,832,Solomon,,
+NT,SANDERSON,812,Solomon,,ANULA
+NT,SANDERSON,812,Solomon,,MARRARA
+NT,STUART PARK,820,Solomon,,
+1234,1234,1234,1234,1234.0,1234
 1,2,3,4,,
-NT,SUNSET COVE,810,Solomon,Northern Territory,COCONUT GROVE
-NT,THE CHASE,832,Solomon,Northern Territory,GUNN
-NT,THE GARDENS,820,Solomon,Northern Territory,
-NT,THE MEWS,830,Solomon,Northern Territory,DURACK
-NT,THE NARROWS,820,Solomon,Northern Territory,
-NT,TIPPERARY WATERS,820,Solomon,Northern Territory,STUART PARK
-NT,TIVENDALE,822,Solomon,Northern Territory,
-NT,TIWI,810,Solomon,Northern Territory,
-NT,WAGAMAN,810,Solomon,Northern Territory,
-NT,WANGURI,810,Solomon,Northern Territory,
-NT,WINNELLIE,820,Solomon,Northern Territory,
-NT,WISHART,828,Solomon,Northern Territory,
-NT,WOODLEIGH GARDENS,812,Solomon,Northern Territory,LEANYER
-NT,WOODROFFE,830,Solomon,Northern Territory,
-NT,WOOLNER,820,Solomon,Northern Territory,
-NT,WULAGI,812,Solomon,Northern Territory,
-1234,1234,1234,1234,1234,1234
+NT,SUNSET COVE,810,Solomon,,COCONUT GROVE
+NT,THE CHASE,832,Solomon,,GUNN
+NT,THE GARDENS,820,Solomon,,
+NT,THE MEWS,830,Solomon,,DURACK
+NT,THE NARROWS,820,Solomon,,
+NT,TIPPERARY WATERS,820,Solomon,,STUART PARK
+NT,TIVENDALE,822,Solomon,,
+NT,TIWI,810,Solomon,,
+NT,WAGAMAN,810,Solomon,,
+NT,WANGURI,810,Solomon,,
+NT,WINNELLIE,820,Solomon,,
+NT,WISHART,828,Solomon,,
+NT,WOODLEIGH GARDENS,812,Solomon,,LEANYER
+NT,WOODROFFE,830,Solomon,,
+NT,WOOLNER,820,Solomon,,
+NT,WULAGI,812,Solomon,,
+1234,1234,1234,1234,1234.0,1234
 1,2,3,4,,
