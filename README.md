@@ -14,9 +14,15 @@ This code is made available for educational purpses.
 
 # What steps are required to get it up and running
 
+## Api Key
 You will need an API key from [theyvoteforyou.org.au](https://theyvoteforyou.org.au/help/data#key) to get the current sitting representivies.
 
-## Pre-requisites
+## `config/key.py`
+Rename `config/key_updateme.py` to `config/key.py` and update the varibles for:
+* `theyvoteforyou_key` - Your API key from [theyvoteforyou.org.au](https://theyvoteforyou.org.au/help/data#key)
+* `postgres_password` - Your Postgres SQL Database Password, assuming the default username of `postgres`
+
+## System Pre-requisites
 
 * Python 3.6 or above
 * PostgreSQL 12
