@@ -31,7 +31,7 @@ Rename `config/key_updateme.py` to `config/key.py` and update the varibles for:
 * Python 3.6 or above
 * PostgreSQL 12
 * IPython configured (e.g. Jupyter Notebook)
-* Python packages as per `requirements.txt` *TODO*
+* Python packages as per `requirements.txt` - versions are pinned for reproducability purposes
 
 # Credits
 
