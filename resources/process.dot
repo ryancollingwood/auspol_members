@@ -1,0 +1,38 @@
+digraph G {
+
+    splines=ortho
+    nodesep=2
+    
+    node [shape="rect" style=filled fillcolor=lightblue fontname = "helvetica"]
+    graph [fontname = "helvetica"];
+    edge [fontname = "helvetica"];    
+    
+    extract_they_vote_for_you [label="01_extract_they_vote_for_you.ipynb"]
+    extract_they_vote_for_you_output [label="01_extract_they_vote_for_you/output.csv" shape="note" fillcolor=yellow]
+    
+    transform_they_vote_for_you [label="02_transform_they_vote_for_you.ipynb"]
+    transform_they_vote_for_you_output [label="02_transform_they_vote_for_you/output.csv" shape="note" fillcolor=yellow]
+    
+    extract_aec_electorates [label="03_extract_aec_electorates.ipynb"]
+    extract_aec_electorates_output [label="03_extract_aec_electorates/*.csv" shape="folder" fillcolor=yellow]
+    
+    transform_aec_electorates [label="04_transform_aec_electorates.ipynb"]
+    transform_aec_electorates_output [label="04_transform_aec_electorates/output.csv" shape="note" fillcolor=yellow]
+    
+    load [label="05_Load.ipynb"]
+
+    extract_they_vote_for_you -> extract_they_vote_for_you_output
+    extract_they_vote_for_you_output -> transform_they_vote_for_you
+    
+    transform_they_vote_for_you -> transform_they_vote_for_you_output
+    
+    transform_they_vote_for_you_output -> extract_aec_electorates
+    extract_aec_electorates -> extract_aec_electorates_output
+    
+    extract_aec_electorates_output -> transform_aec_electorates
+    transform_aec_electorates -> transform_aec_electorates_output
+    
+    transform_aec_electorates_output -> load
+    extract_aec_electorates_output -> load
+
+}
