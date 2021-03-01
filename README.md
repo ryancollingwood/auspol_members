@@ -12,11 +12,14 @@ IPython notebooks are used for all of the steps. Data is retrieved using a mixtu
 
 This code is made available for educational purpses.
 
-# What steps are required to get it up and running
+# How to Run in?
 
 Run the Notebooks in the order as indicated in their files names - e.g. `01_extract_they_vote_for_you.ipynb` is run first and `05_Load.ipynb` is run last.
 
 ![Order of execution and outputs](resources/process.png "Order of execution and outputs")
+
+You'll then have a couple of tables created and populated in your PostgreSQL database, are per the ERD below:
+![Output Entity Relationship Diagram](resources/erd.png "Output Entity Relationship Diagram")
 
 ## Api Key
 You will need an API key from [theyvoteforyou.org.au](https://theyvoteforyou.org.au/help/data#key) to get the current sitting representivies.
